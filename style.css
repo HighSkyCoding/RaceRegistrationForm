@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Quicksand:wght@600&display=swap');
+body {
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+}
+
+div {
+    background: linear-gradient(lightblue, lightgreen);
+    width: 400px;
+    height: 450px;
+    border-radius: 20px;
+    margin-left: 550px;
+    margin-top: 100px;
+    outline: solid 1px black;
+}
+
+form {
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+button {
+    background-color: lightblue;
+    font-size: 15px;
+    font-family: "Quicksand", sans-serif;
+    padding: 5px 10px 5px 10px;
+    border-radius: 50px;
+    outline: solid 2px black;
+}
+
+select {
+    border-radius: 10px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 15px;
+}
+
+input {
+    border-radius: 12px;
+}
